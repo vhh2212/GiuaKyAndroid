@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "441857793540",
+    "firebase_url": "https://giacarcq-gk.firebaseio.com",
+    "project_id": "giacarcq-gk",
+    "storage_bucket": "giacarcq-gk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441857793540:android:c057c40df5f03c24",
+        "android_client_info": {
+          "package_name": "com.vhh.vanhai.gkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441857793540-eqiadll09cbe55cuv5epamujqfljqo2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciDkqSgMP80O-k5xso95qwzT8Ko4K4EA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

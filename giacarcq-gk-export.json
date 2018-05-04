@@ -1,0 +1,41 @@
+{
+  "Giá Rau-Củ-Quả" : {
+    "Mặt Hàng" : {
+      "Cà Chua" : {
+        "Gia" : "6000đ",
+        "LoaiRCQ" : "Cà Chua",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/363edc3e-448b-11e5-8714-ce164f4f310c/cachua.jpg"
+      },
+      "Hành" : {
+        "Gia" : "5000đ/kg",
+        "LoaiRCQ" : "Hành",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/8586f40c-42f6-11e5-80e3-96c0cf2ecefb/hanhla.jpg"
+      },
+      "Hành hẹ" : {
+        "Gia" : "5000đ/kg",
+        "LoaiRCQ" : "Hành hẹ",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/8586f40c-42f6-11e5-80e3-96c0cf2ecefb/hanhla.jpg"
+      },
+      "Khoai" : {
+        "Gia" : "6000đ",
+        "LoaiRCQ" : "Khoai",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/1e8e02c4-86b5-11e5-9bbd-c6564f93218e/ktx.jpg"
+      },
+      "Xà Lách" : {
+        "Gia" : "2500đ",
+        "LoaiRCQ" : "Xà Lách",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/5b930478/5b93__17553948.jpg"
+      },
+      "Xu Hào" : {
+        "Gia" : "2500đ",
+        "LoaiRCQ" : "Xu Hào",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/6d1d55ec-4269-11e5-ac07-fe7e69fea1ad/suhao.jpg"
+      },
+      "chanh" : {
+        "Gia" : "5000đ",
+        "LoaiRCQ" : "chanh",
+        "urlImage" : "https://dichonhanh.r.worldssl.net/food/8f0969c0-42fa-11e5-80e3-96c0cf2ecefb/chanhdalat.jpg"
+      }
+    }
+  }
+}
